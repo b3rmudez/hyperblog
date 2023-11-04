@@ -3,3 +3,5 @@ Esta es la historia de Andres bermudez
 Andres tiene 38 años y esta estudiando Git
 
 Debe prepararse para varias certificaciones y todo lo que se viene en su carrera profesional.
+
+Hoy avanzo bastante en su curso de platzi.
